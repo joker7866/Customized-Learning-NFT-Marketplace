@@ -6,6 +6,9 @@ The Customized Learning NFT Marketplace is an innovative platform that leverages
 
 ## Contract Address
 - **Contract Address:** [0xB50DBd29Ce8f5f11B69E0F7FB29232B3A812c4bA]
+- ![image](https://github.com/user-attachments/assets/580eba40-5b82-40d6-a5aa-01957d03b334)
+
+
 
 ## Project Vision
 The vision of the Customized Learning NFT Marketplace is to revolutionize the way educational content is delivered and owned. By utilizing blockchain technology, we aim to provide a secure, transparent, and decentralized platform where educators can be fairly compensated for their work and learners can truly own their educational achievements.
